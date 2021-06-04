@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"<Unnamed>","l":"AnotherFrame"},{"p":"<Unnamed>","l":"CheckIn"},{"p":"<Unnamed>","l":"MyFrame"},{"l":"所有类","u":"allclasses-index.html"}];updateSearchResults();
